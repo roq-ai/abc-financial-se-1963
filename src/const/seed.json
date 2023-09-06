@@ -1,0 +1,2630 @@
+[
+  {
+    "nps": [
+      {
+        "id": "f3793efa-a414-4251-b82e-69a418eb9d5b",
+        "score": 45042,
+        "nps_date": "2023-09-05T23:48:52.078Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-05T14:37:04.978Z",
+        "updated_at": "2023-09-05T05:31:22.865Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54b63dd2-8bcc-4744-b153-7d0b095eb6c7",
+        "score": 16494,
+        "nps_date": "2023-09-05T15:15:37.983Z",
+        "nps_status": "Passive",
+        "nps_comment": "Could be better",
+        "created_at": "2023-09-06T02:39:31.850Z",
+        "updated_at": "2023-09-05T06:34:57.367Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "015b428e-5594-47dd-940d-eb583f85f217",
+        "score": 51006,
+        "nps_date": "2023-09-05T15:14:39.218Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Not satisfied",
+        "created_at": "2023-09-05T08:04:57.837Z",
+        "updated_at": "2023-09-06T02:19:13.320Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4d3d763-7a47-4903-969c-c48c0ab00b1b",
+        "score": 91148,
+        "nps_date": "2023-09-06T02:00:28.164Z",
+        "nps_status": "Neutral",
+        "nps_comment": "No comment",
+        "created_at": "2023-09-05T23:16:31.475Z",
+        "updated_at": "2023-09-06T03:56:34.200Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e498810-9583-4105-b509-c6a3c9872218",
+        "score": 38757,
+        "nps_date": "2023-09-05T07:24:08.473Z",
+        "nps_status": "Not Applicable",
+        "nps_comment": "N/A",
+        "created_at": "2023-09-05T21:11:10.919Z",
+        "updated_at": "2023-09-05T22:35:57.231Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "a526c9a3-b75f-4603-8e7b-3fa91a0b4a24",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T11:27:50.662Z",
+        "policy_end_date": "2023-09-05T21:03:51.786Z",
+        "created_at": "2023-09-06T00:01:41.335Z",
+        "updated_at": "2023-09-05T11:45:36.661Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09702faf-1c0f-4070-bdea-8c4e3da2cc1c",
+        "policy_name": "Home Insurance",
+        "policy_details": "Fire and theft protection",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-06T02:56:08.565Z",
+        "policy_end_date": "2023-09-05T23:23:30.328Z",
+        "created_at": "2023-09-05T22:40:31.286Z",
+        "updated_at": "2023-09-06T01:17:08.375Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d2abb2d-26ad-478b-8119-2dd4457d5fd8",
+        "policy_name": "Life Insurance",
+        "policy_details": "Term life insurance",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T11:06:13.605Z",
+        "policy_end_date": "2023-09-05T05:24:31.662Z",
+        "created_at": "2023-09-06T00:36:31.311Z",
+        "updated_at": "2023-09-05T21:11:47.626Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "864011d0-13b9-4b9d-aa6a-d0cae5fce0f8",
+        "policy_name": "Health Insurance",
+        "policy_details": "Medical coverage",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-05T21:43:54.866Z",
+        "policy_end_date": "2023-09-05T14:54:34.015Z",
+        "created_at": "2023-09-05T20:18:00.742Z",
+        "updated_at": "2023-09-05T11:58:50.386Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8984ac10-1f1d-44e4-947e-4fd1b54bd4a4",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Trip cancellation",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-05T18:57:44.882Z",
+        "policy_end_date": "2023-09-05T17:41:37.174Z",
+        "created_at": "2023-09-06T00:15:47.597Z",
+        "updated_at": "2023-09-06T01:15:53.807Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "137877ac-420f-4d3a-9299-9913a27812d4",
+        "service_name": "Checking Account",
+        "service_details": "No monthly fees",
+        "service_status": "Active",
+        "service_start_date": "2023-09-06T04:08:10.329Z",
+        "service_end_date": "2023-09-06T02:22:39.783Z",
+        "created_at": "2023-09-05T09:06:00.108Z",
+        "updated_at": "2023-09-05T22:38:31.004Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7cb36fb4-33f0-4748-b357-744f4a2ec6d6",
+        "service_name": "Savings Account",
+        "service_details": "High interest rates",
+        "service_status": "Inactive",
+        "service_start_date": "2023-09-05T07:47:56.155Z",
+        "service_end_date": "2023-09-05T19:17:20.678Z",
+        "created_at": "2023-09-05T15:24:26.645Z",
+        "updated_at": "2023-09-05T20:23:05.087Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f194f00b-0ab1-4d53-ab85-497d475e8d4a",
+        "service_name": "Credit Card",
+        "service_details": "Cashback rewards",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-05T16:58:12.318Z",
+        "service_end_date": "2023-09-05T07:25:20.682Z",
+        "created_at": "2023-09-05T22:49:29.759Z",
+        "updated_at": "2023-09-05T14:18:52.792Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cfe20d64-65ba-4ad7-b40a-692afb96d0ef",
+        "service_name": "Mortgage Loan",
+        "service_details": "Low interest rates",
+        "service_status": "Closed",
+        "service_start_date": "2023-09-05T04:51:25.415Z",
+        "service_end_date": "2023-09-05T11:58:30.175Z",
+        "created_at": "2023-09-05T18:54:56.622Z",
+        "updated_at": "2023-09-05T18:13:30.540Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a8d4bd8-7dd3-4594-b290-b4e144f9ae4c",
+        "service_name": "Personal Loan",
+        "service_details": "Flexible repayment options",
+        "service_status": "Blocked",
+        "service_start_date": "2023-09-05T10:44:32.932Z",
+        "service_end_date": "2023-09-05T23:12:55.005Z",
+        "created_at": "2023-09-05T09:07:24.202Z",
+        "updated_at": "2023-09-05T12:14:01.646Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "d77a19b2-1179-42ac-8189-bd1510ee568a",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-06T00:10:33.762Z",
+        "customer_end_date": "2023-09-06T00:27:31.686Z",
+        "created_at": "2023-09-05T12:06:24.408Z",
+        "updated_at": "2023-09-05T15:49:54.077Z",
+        "banking_service_id": "7a8d4bd8-7dd3-4594-b290-b4e144f9ae4c",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "a526c9a3-b75f-4603-8e7b-3fa91a0b4a24",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24d71f66-7c75-4c51-9d42-33343ad45233",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T21:19:19.943Z",
+        "customer_end_date": "2023-09-05T04:52:21.656Z",
+        "created_at": "2023-09-05T08:26:40.702Z",
+        "updated_at": "2023-09-06T03:11:47.162Z",
+        "banking_service_id": "7a8d4bd8-7dd3-4594-b290-b4e144f9ae4c",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "a526c9a3-b75f-4603-8e7b-3fa91a0b4a24",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6da78a28-0d4f-40b2-a9a4-c2847fcb8abc",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-06T00:31:01.780Z",
+        "customer_end_date": "2023-09-05T15:01:50.367Z",
+        "created_at": "2023-09-05T14:20:04.720Z",
+        "updated_at": "2023-09-06T03:51:41.040Z",
+        "banking_service_id": "137877ac-420f-4d3a-9299-9913a27812d4",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "8984ac10-1f1d-44e4-947e-4fd1b54bd4a4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1036b4cf-a46a-416c-9bf2-6d7df0430ce4",
+        "customer_status": "Suspended",
+        "customer_start_date": "2023-09-05T23:02:05.687Z",
+        "customer_end_date": "2023-09-05T12:36:02.880Z",
+        "created_at": "2023-09-05T18:08:10.733Z",
+        "updated_at": "2023-09-05T10:18:09.493Z",
+        "banking_service_id": "7a8d4bd8-7dd3-4594-b290-b4e144f9ae4c",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "4d2abb2d-26ad-478b-8119-2dd4457d5fd8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a39b255-d64b-40be-8f46-152bafe0aeae",
+        "customer_status": "Closed",
+        "customer_start_date": "2023-09-05T06:38:12.865Z",
+        "customer_end_date": "2023-09-05T05:56:57.406Z",
+        "created_at": "2023-09-05T17:11:53.049Z",
+        "updated_at": "2023-09-06T01:22:18.439Z",
+        "banking_service_id": "f194f00b-0ab1-4d53-ab85-497d475e8d4a",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "864011d0-13b9-4b9d-aa6a-d0cae5fce0f8",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "63f10b90-e2b2-4dad-8cb6-6ba7fb5243a5",
+        "email": "Bernard.Kling@hotmail.com",
+        "firstName": "Jayne",
+        "lastName": "Rodriguez",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/652.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b3ff99ae-8ee9-425a-8eae-518989bad1be",
+        "email": "Cayla_Romaguera79@gmail.com",
+        "firstName": "Rudy",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96387970",
+        "tenantId": null
+      },
+      {
+        "reference": "2be68387-d584-4d2e-95c9-f24b6052af69",
+        "email": "Lorena.Osinski@yahoo.com",
+        "firstName": "Ed",
+        "lastName": "Gorczany",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/866.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d72299ff-3df3-4901-aa7c-283b81c0993f",
+        "email": "Leora.Wintheiser@yahoo.com",
+        "firstName": "Ciara",
+        "lastName": "Lebsack",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1137.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d0a15a7b-305b-426d-a358-53854829b517",
+        "email": "Syble.Pfeffer54@yahoo.com",
+        "firstName": "Marisol",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98121861",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "b8152955-0927-4df5-ac38-25145d7ec88d",
+        "score": 48466,
+        "nps_date": "2023-09-06T03:59:56.355Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-05T09:13:09.302Z",
+        "updated_at": "2023-09-05T15:11:37.479Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "65ad5820-451c-4462-9984-be3287dfbaf7",
+        "score": 53379,
+        "nps_date": "2023-09-05T08:17:07.133Z",
+        "nps_status": "Passive",
+        "nps_comment": "Could be better",
+        "created_at": "2023-09-06T04:09:58.417Z",
+        "updated_at": "2023-09-05T05:01:02.060Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80a20b2f-71fa-40d3-8c03-954e800dd1fc",
+        "score": 21338,
+        "nps_date": "2023-09-05T08:02:30.227Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Not satisfied",
+        "created_at": "2023-09-05T21:39:10.805Z",
+        "updated_at": "2023-09-05T17:35:22.489Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71daef8a-d77c-460c-a781-eb7a23f3c478",
+        "score": 88774,
+        "nps_date": "2023-09-05T18:29:24.032Z",
+        "nps_status": "Neutral",
+        "nps_comment": "No comment",
+        "created_at": "2023-09-05T21:25:33.845Z",
+        "updated_at": "2023-09-05T08:36:26.325Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4e96449-d4d6-42a4-8b4a-9d0acd163b28",
+        "score": 38781,
+        "nps_date": "2023-09-06T02:31:51.876Z",
+        "nps_status": "Not Applicable",
+        "nps_comment": "N/A",
+        "created_at": "2023-09-06T01:26:30.304Z",
+        "updated_at": "2023-09-05T23:40:37.440Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "0066e43e-6350-4d4d-835a-2896126022fe",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Coverage for accidents",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T09:07:42.077Z",
+        "policy_end_date": "2023-09-05T18:23:49.178Z",
+        "created_at": "2023-09-05T12:20:22.966Z",
+        "updated_at": "2023-09-05T22:59:45.462Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57344d68-7f5e-4aaf-8f56-136244eb9e6b",
+        "policy_name": "Home Insurance",
+        "policy_details": "Protection for your property",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-05T06:50:03.730Z",
+        "policy_end_date": "2023-09-05T12:51:51.953Z",
+        "created_at": "2023-09-05T09:00:17.269Z",
+        "updated_at": "2023-09-05T22:45:48.190Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e3d2700-dd00-4915-bab8-5568c75f5354",
+        "policy_name": "Life Insurance",
+        "policy_details": "Financial security for your loved ones",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-06T00:42:54.887Z",
+        "policy_end_date": "2023-09-05T05:51:06.721Z",
+        "created_at": "2023-09-05T10:52:18.521Z",
+        "updated_at": "2023-09-05T08:31:36.105Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "63e90419-747e-4239-aafb-09be063db881",
+        "policy_name": "Health Insurance",
+        "policy_details": "Medical expenses coverage",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-05T14:46:59.488Z",
+        "policy_end_date": "2023-09-05T09:17:26.591Z",
+        "created_at": "2023-09-06T00:01:54.548Z",
+        "updated_at": "2023-09-05T06:58:00.345Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fecf568b-d97b-4fb9-9d32-1251fe8bb011",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Protection during travel",
+        "policy_status": "Suspended",
+        "policy_start_date": "2023-09-05T06:36:36.985Z",
+        "policy_end_date": "2023-09-05T20:50:52.629Z",
+        "created_at": "2023-09-05T06:15:22.646Z",
+        "updated_at": "2023-09-05T05:56:58.208Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "940fca31-643e-466a-8088-976c96c7a6a4",
+        "service_name": "Checking Account",
+        "service_details": "Manage your day-to-day finances",
+        "service_status": "Active",
+        "service_start_date": "2023-09-05T14:23:44.313Z",
+        "service_end_date": "2023-09-06T03:16:18.953Z",
+        "created_at": "2023-09-06T02:50:49.010Z",
+        "updated_at": "2023-09-05T12:55:02.692Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0c23781-b290-4e44-a4fa-a64f0fe04781",
+        "service_name": "Savings Account",
+        "service_details": "Save money for the future",
+        "service_status": "Inactive",
+        "service_start_date": "2023-09-05T06:44:04.820Z",
+        "service_end_date": "2023-09-05T18:11:19.045Z",
+        "created_at": "2023-09-05T23:21:17.800Z",
+        "updated_at": "2023-09-05T17:28:44.688Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bc22a0b-cb5a-487b-8e5f-12de51c81a92",
+        "service_name": "Credit Card",
+        "service_details": "Convenient payment method",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-05T13:37:04.880Z",
+        "service_end_date": "2023-09-05T18:06:48.566Z",
+        "created_at": "2023-09-05T22:12:14.617Z",
+        "updated_at": "2023-09-06T03:43:09.403Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7b681e16-1119-484e-a646-1aacb0db00c3",
+        "service_name": "Mortgage Loan",
+        "service_details": "Finance your dream home",
+        "service_status": "Suspended",
+        "service_start_date": "2023-09-05T12:59:54.855Z",
+        "service_end_date": "2023-09-05T23:29:14.585Z",
+        "created_at": "2023-09-05T12:08:49.830Z",
+        "updated_at": "2023-09-05T15:54:50.129Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "948b1cfa-3efb-495f-a941-16e7c19cf7b3",
+        "service_name": "Business Loan",
+        "service_details": "Fund your business growth",
+        "service_status": "Closed",
+        "service_start_date": "2023-09-05T22:19:16.528Z",
+        "service_end_date": "2023-09-05T16:56:20.406Z",
+        "created_at": "2023-09-06T01:25:43.797Z",
+        "updated_at": "2023-09-05T06:30:40.695Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "0afe1da7-c22f-4b3f-ae90-793c83e7c13e",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T09:23:04.234Z",
+        "customer_end_date": "2023-09-05T09:16:30.141Z",
+        "created_at": "2023-09-05T20:26:07.942Z",
+        "updated_at": "2023-09-05T16:55:55.648Z",
+        "banking_service_id": "b0c23781-b290-4e44-a4fa-a64f0fe04781",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "fecf568b-d97b-4fb9-9d32-1251fe8bb011",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5835661-0168-4a63-b2ef-1c819da6a828",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T16:04:46.066Z",
+        "customer_end_date": "2023-09-05T09:24:46.023Z",
+        "created_at": "2023-09-05T18:43:36.032Z",
+        "updated_at": "2023-09-05T13:02:32.310Z",
+        "banking_service_id": "b0c23781-b290-4e44-a4fa-a64f0fe04781",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "63e90419-747e-4239-aafb-09be063db881",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ecb4032-9108-49aa-841d-c263d27b2e26",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-05T12:52:37.061Z",
+        "customer_end_date": "2023-09-06T00:52:28.166Z",
+        "created_at": "2023-09-06T01:49:24.464Z",
+        "updated_at": "2023-09-05T11:25:30.427Z",
+        "banking_service_id": "940fca31-643e-466a-8088-976c96c7a6a4",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "fecf568b-d97b-4fb9-9d32-1251fe8bb011",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3d70173-2438-48e6-a602-a0d8c6a15c3c",
+        "customer_status": "Suspended",
+        "customer_start_date": "2023-09-05T08:45:09.316Z",
+        "customer_end_date": "2023-09-05T08:09:42.400Z",
+        "created_at": "2023-09-05T10:21:10.075Z",
+        "updated_at": "2023-09-05T19:45:54.168Z",
+        "banking_service_id": "948b1cfa-3efb-495f-a941-16e7c19cf7b3",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "63e90419-747e-4239-aafb-09be063db881",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9b183a9f-c3e3-47a7-8aa5-41ae47ebe062",
+        "customer_status": "Closed",
+        "customer_start_date": "2023-09-05T17:13:48.964Z",
+        "customer_end_date": "2023-09-05T21:45:31.210Z",
+        "created_at": "2023-09-05T07:12:33.603Z",
+        "updated_at": "2023-09-05T08:03:06.151Z",
+        "banking_service_id": "940fca31-643e-466a-8088-976c96c7a6a4",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "57344d68-7f5e-4aaf-8f56-136244eb9e6b",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3c04b548-a7d5-4622-8c50-2d19372ffe68",
+        "email": "Janiya.Wyman56@hotmail.com",
+        "firstName": "Yasmine",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/337.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c849cead-1f74-4745-af4b-4825d3bf6a64",
+        "email": "Giovanni97@yahoo.com",
+        "firstName": "Princess",
+        "lastName": "Zieme",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33343617",
+        "tenantId": null
+      },
+      {
+        "reference": "4b726b46-bfde-4389-9c0b-2fd1c5a2b243",
+        "email": "Fiona.Mitchell@yahoo.com",
+        "firstName": "Napoleon",
+        "lastName": "Gerhold",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23360225",
+        "tenantId": null
+      },
+      {
+        "reference": "ac1e3da2-243e-4143-a929-f12292d32e2b",
+        "email": "Brown0@gmail.com",
+        "firstName": "Tyshawn",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/385.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "33b57453-f71a-44d0-98af-0ecb2dfb337f",
+        "email": "Minerva47@hotmail.com",
+        "firstName": "Teagan",
+        "lastName": "Funk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/115.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "e4d52ba1-a2cc-4cda-9f50-8f1c4716999c",
+        "score": 95690,
+        "nps_date": "2023-09-05T19:12:47.936Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-05T15:07:29.037Z",
+        "updated_at": "2023-09-05T20:02:53.968Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ba939ca-ce10-4344-981d-9fc981c9aca2",
+        "score": 92964,
+        "nps_date": "2023-09-05T22:23:16.592Z",
+        "nps_status": "Passive",
+        "nps_comment": "Could be better",
+        "created_at": "2023-09-05T21:31:48.024Z",
+        "updated_at": "2023-09-05T16:07:15.161Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d73b5286-2da3-4889-89e3-a52f32396e45",
+        "score": 37308,
+        "nps_date": "2023-09-05T17:11:41.232Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Not satisfied",
+        "created_at": "2023-09-05T20:37:26.586Z",
+        "updated_at": "2023-09-06T04:23:06.302Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff809567-23e8-4874-b375-10c184c5302c",
+        "score": 9517,
+        "nps_date": "2023-09-06T00:41:44.820Z",
+        "nps_status": "Neutral",
+        "nps_comment": "No complaints",
+        "created_at": "2023-09-05T04:39:03.084Z",
+        "updated_at": "2023-09-05T15:35:54.994Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7af46d28-b9df-4ade-a6ab-eb973b32f177",
+        "score": 59829,
+        "nps_date": "2023-09-05T13:09:33.673Z",
+        "nps_status": "Satisfied",
+        "nps_comment": "Average experience",
+        "created_at": "2023-09-05T05:48:11.835Z",
+        "updated_at": "2023-09-05T11:11:22.469Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "04c94ac4-c8d8-4ace-a8c9-d1f608ca8ccf",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T19:27:54.844Z",
+        "policy_end_date": "2023-09-05T07:08:07.145Z",
+        "created_at": "2023-09-05T20:46:59.916Z",
+        "updated_at": "2023-09-05T10:24:03.925Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7666af87-8dc5-4b22-aa1e-8e6fd15dadf3",
+        "policy_name": "Home Insurance",
+        "policy_details": "Property protection",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-06T04:07:56.789Z",
+        "policy_end_date": "2023-09-05T15:39:28.044Z",
+        "created_at": "2023-09-05T06:28:25.061Z",
+        "updated_at": "2023-09-05T20:45:17.490Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a8fc1ba-a1bf-4451-9b17-3566def02067",
+        "policy_name": "Health Insurance",
+        "policy_details": "Medical expenses",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T17:07:23.391Z",
+        "policy_end_date": "2023-09-05T23:38:48.176Z",
+        "created_at": "2023-09-05T12:03:37.732Z",
+        "updated_at": "2023-09-06T03:10:47.094Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2122766a-e3d2-42e5-849e-468176c70d62",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Trip cancellation",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-05T12:47:04.096Z",
+        "policy_end_date": "2023-09-05T20:41:24.376Z",
+        "created_at": "2023-09-05T09:01:37.245Z",
+        "updated_at": "2023-09-05T20:30:15.675Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0842f3e6-4963-4a27-9d6e-7f4482e635a8",
+        "policy_name": "Life Insurance",
+        "policy_details": "Death benefit",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-06T04:28:32.339Z",
+        "policy_end_date": "2023-09-06T04:02:45.224Z",
+        "created_at": "2023-09-05T10:28:03.727Z",
+        "updated_at": "2023-09-05T08:31:46.225Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "7eee335f-0cee-4212-aa87-3f8d0b82dece",
+        "service_name": "Checking Account",
+        "service_details": "No monthly fees",
+        "service_status": "Active",
+        "service_start_date": "2023-09-05T15:22:20.280Z",
+        "service_end_date": "2023-09-05T21:30:10.166Z",
+        "created_at": "2023-09-05T17:10:04.275Z",
+        "updated_at": "2023-09-05T19:52:05.297Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a76758a1-0196-429b-b66d-dbbf954985c3",
+        "service_name": "Savings Account",
+        "service_details": "High interest rates",
+        "service_status": "Inactive",
+        "service_start_date": "2023-09-05T07:46:54.774Z",
+        "service_end_date": "2023-09-05T14:10:57.943Z",
+        "created_at": "2023-09-05T20:37:18.364Z",
+        "updated_at": "2023-09-06T04:11:21.284Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b754e1d-4693-4dbd-897e-1e854862c97a",
+        "service_name": "Credit Card",
+        "service_details": "Rewards program",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-05T20:21:12.583Z",
+        "service_end_date": "2023-09-05T17:00:04.399Z",
+        "created_at": "2023-09-05T16:40:27.486Z",
+        "updated_at": "2023-09-05T19:58:43.323Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce78fb9c-ce87-43e6-a9cd-a9c334a035fa",
+        "service_name": "Loan Services",
+        "service_details": "Flexible repayment options",
+        "service_status": "Approved",
+        "service_start_date": "2023-09-05T17:53:59.885Z",
+        "service_end_date": "2023-09-06T02:51:42.388Z",
+        "created_at": "2023-09-05T05:43:56.114Z",
+        "updated_at": "2023-09-05T12:13:08.530Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad410002-bfe6-4a4c-bca9-9e762d887fe9",
+        "service_name": "Online Banking",
+        "service_details": "24/7 access",
+        "service_status": "Denied",
+        "service_start_date": "2023-09-05T17:26:55.715Z",
+        "service_end_date": "2023-09-05T21:45:58.234Z",
+        "created_at": "2023-09-05T17:00:39.148Z",
+        "updated_at": "2023-09-05T23:46:17.171Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "07c3c6ac-219c-4331-8488-94f4cfa40f9f",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T21:52:52.237Z",
+        "customer_end_date": "2023-09-05T14:05:59.220Z",
+        "created_at": "2023-09-05T22:32:15.892Z",
+        "updated_at": "2023-09-05T09:44:07.172Z",
+        "banking_service_id": "7eee335f-0cee-4212-aa87-3f8d0b82dece",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "7666af87-8dc5-4b22-aa1e-8e6fd15dadf3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1785a940-428a-4735-9d8a-d0c035097016",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T14:43:23.843Z",
+        "customer_end_date": "2023-09-05T11:20:17.506Z",
+        "created_at": "2023-09-06T03:34:40.084Z",
+        "updated_at": "2023-09-05T23:51:58.326Z",
+        "banking_service_id": "a76758a1-0196-429b-b66d-dbbf954985c3",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "2122766a-e3d2-42e5-849e-468176c70d62",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "65df1cff-09fc-44db-9a02-e1dba4c99ba6",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-06T01:14:43.765Z",
+        "customer_end_date": "2023-09-05T19:12:18.450Z",
+        "created_at": "2023-09-05T17:44:49.639Z",
+        "updated_at": "2023-09-05T23:52:50.886Z",
+        "banking_service_id": "3b754e1d-4693-4dbd-897e-1e854862c97a",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "7666af87-8dc5-4b22-aa1e-8e6fd15dadf3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8bf77387-3037-49c0-be2e-970e92c1c54f",
+        "customer_status": "Suspended",
+        "customer_start_date": "2023-09-06T01:14:08.547Z",
+        "customer_end_date": "2023-09-06T03:50:36.563Z",
+        "created_at": "2023-09-05T10:18:31.611Z",
+        "updated_at": "2023-09-05T20:20:42.864Z",
+        "banking_service_id": "ce78fb9c-ce87-43e6-a9cd-a9c334a035fa",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "7666af87-8dc5-4b22-aa1e-8e6fd15dadf3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c25188f-1f89-42f1-bb5b-a47ff51b3319",
+        "customer_status": "Closed",
+        "customer_start_date": "2023-09-06T01:03:56.967Z",
+        "customer_end_date": "2023-09-06T04:21:04.480Z",
+        "created_at": "2023-09-06T01:42:50.318Z",
+        "updated_at": "2023-09-05T11:07:14.327Z",
+        "banking_service_id": "ce78fb9c-ce87-43e6-a9cd-a9c334a035fa",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "0842f3e6-4963-4a27-9d6e-7f4482e635a8",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ed5537c4-bd3f-4cbe-87e9-5ee02f2a2f03",
+        "email": "Lucy_VonRueden@gmail.com",
+        "firstName": "Titus",
+        "lastName": "Bernhard",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/699.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f4b1f427-c01c-4e52-abc8-3e2fcf1b55a1",
+        "email": "Sigrid_Bednar9@hotmail.com",
+        "firstName": "Greyson",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53903827",
+        "tenantId": null
+      },
+      {
+        "reference": "9d79914d-8e86-429f-b0ee-94dbbbdd01a4",
+        "email": "Meaghan.Bosco@gmail.com",
+        "firstName": "Ramon",
+        "lastName": "Adams",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1161.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "003bb577-6c9e-4705-88f3-1ebeae173a86",
+        "email": "Elise.Weimann@yahoo.com",
+        "firstName": "Mohammed",
+        "lastName": "Nitzsche",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e74a4b65-368a-4e21-a6e1-e3aafcc3a228",
+        "email": "Telly.Stracke24@hotmail.com",
+        "firstName": "Breana",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/25.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "36253193-7ee5-4f76-9404-55ae04deef74",
+        "score": 54414,
+        "nps_date": "2023-09-05T17:37:35.205Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-05T12:38:56.623Z",
+        "updated_at": "2023-09-06T00:50:35.112Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7eec9d0a-88c9-435e-92be-7a8d77adec48",
+        "score": 33837,
+        "nps_date": "2023-09-05T16:00:25.375Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Poor customer support",
+        "created_at": "2023-09-05T16:53:14.704Z",
+        "updated_at": "2023-09-05T14:49:17.250Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42c3b350-d0c6-48ff-a941-5fe0b9ab26a1",
+        "score": 33084,
+        "nps_date": "2023-09-05T11:42:47.632Z",
+        "nps_status": "Passive",
+        "nps_comment": "Average experience",
+        "created_at": "2023-09-05T19:35:07.256Z",
+        "updated_at": "2023-09-05T10:23:03.046Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9b935dd-ac2b-43c1-a238-d27a03691dcf",
+        "score": 31336,
+        "nps_date": "2023-09-05T09:26:33.126Z",
+        "nps_status": "Not Responded",
+        "nps_comment": "No complaints",
+        "created_at": "2023-09-05T05:45:52.509Z",
+        "updated_at": "2023-09-05T10:58:56.068Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "654a0eaf-0a7e-47d4-aeaf-c27b2c640e2b",
+        "score": 21661,
+        "nps_date": "2023-09-06T00:11:43.252Z",
+        "nps_status": "Unknown",
+        "nps_comment": "Unsatisfactory",
+        "created_at": "2023-09-06T00:11:59.717Z",
+        "updated_at": "2023-09-05T16:28:08.345Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "5d5341ae-68f1-420e-8d00-2e26c89773b5",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T05:28:44.830Z",
+        "policy_end_date": "2023-09-05T19:22:34.474Z",
+        "created_at": "2023-09-05T18:06:49.790Z",
+        "updated_at": "2023-09-05T13:41:46.036Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc8d6675-9379-4625-91ee-0b650a907289",
+        "policy_name": "Home Insurance",
+        "policy_details": "Property damage liability",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-06T02:31:05.630Z",
+        "policy_end_date": "2023-09-05T07:53:45.681Z",
+        "created_at": "2023-09-06T02:30:16.901Z",
+        "updated_at": "2023-09-05T23:58:28.724Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af1e532f-7387-4c58-9197-6af2b49cee92",
+        "policy_name": "Life Insurance",
+        "policy_details": "Term life insurance",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-05T11:23:57.841Z",
+        "policy_end_date": "2023-09-05T22:59:02.978Z",
+        "created_at": "2023-09-05T21:27:21.645Z",
+        "updated_at": "2023-09-05T09:43:40.885Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd7eec29-8cd7-4c09-b4e2-5f8493a10060",
+        "policy_name": "Health Insurance",
+        "policy_details": "Medical expenses coverage",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T10:02:54.123Z",
+        "policy_end_date": "2023-09-05T06:07:52.390Z",
+        "created_at": "2023-09-05T12:01:27.556Z",
+        "updated_at": "2023-09-06T02:47:02.186Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28da31a2-56bd-494d-bd4b-79e9da10f8e4",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Trip cancellation coverage",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-05T12:45:13.110Z",
+        "policy_end_date": "2023-09-05T22:45:06.835Z",
+        "created_at": "2023-09-05T15:57:55.700Z",
+        "updated_at": "2023-09-05T06:19:12.212Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "d940f4be-c084-4207-b1b6-443522bb5122",
+        "service_name": "Checking Account",
+        "service_details": "No monthly fees",
+        "service_status": "Active",
+        "service_start_date": "2023-09-06T01:10:17.921Z",
+        "service_end_date": "2023-09-05T10:03:54.411Z",
+        "created_at": "2023-09-05T08:27:24.406Z",
+        "updated_at": "2023-09-05T17:56:50.203Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4391071a-e3ea-48fa-adc0-3fa54c459036",
+        "service_name": "Savings Account",
+        "service_details": "High interest rates",
+        "service_status": "Inactive",
+        "service_start_date": "2023-09-05T09:37:40.809Z",
+        "service_end_date": "2023-09-05T04:51:17.200Z",
+        "created_at": "2023-09-05T18:22:48.156Z",
+        "updated_at": "2023-09-06T02:19:51.533Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d70de6a8-a9b0-4682-9f3e-ff1f8ca2588e",
+        "service_name": "Credit Card",
+        "service_details": "Cashback rewards",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-05T10:33:49.674Z",
+        "service_end_date": "2023-09-05T09:10:16.567Z",
+        "created_at": "2023-09-05T17:31:56.155Z",
+        "updated_at": "2023-09-05T21:29:55.209Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a55178b7-2478-4d95-8f6a-b6a05750c7a0",
+        "service_name": "Personal Loan",
+        "service_details": "Flexible repayment options",
+        "service_status": "Closed",
+        "service_start_date": "2023-09-05T12:46:47.976Z",
+        "service_end_date": "2023-09-05T13:16:14.679Z",
+        "created_at": "2023-09-05T16:53:17.348Z",
+        "updated_at": "2023-09-05T05:13:31.203Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1777849-6d87-4093-a41b-06553716c45c",
+        "service_name": "Mortgage",
+        "service_details": "Low interest rates",
+        "service_status": "Blocked",
+        "service_start_date": "2023-09-05T23:35:58.041Z",
+        "service_end_date": "2023-09-05T09:36:46.388Z",
+        "created_at": "2023-09-05T14:37:27.765Z",
+        "updated_at": "2023-09-05T16:01:44.295Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "db1ef516-64e1-4ef5-9317-36cc14bc1e57",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T18:42:29.418Z",
+        "customer_end_date": "2023-09-05T12:45:47.709Z",
+        "created_at": "2023-09-05T10:30:11.692Z",
+        "updated_at": "2023-09-05T18:56:51.981Z",
+        "banking_service_id": "d940f4be-c084-4207-b1b6-443522bb5122",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "af1e532f-7387-4c58-9197-6af2b49cee92",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b28987d7-a61f-47fa-9f3a-556777928915",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T13:12:17.269Z",
+        "customer_end_date": "2023-09-05T16:52:58.991Z",
+        "created_at": "2023-09-05T10:27:49.196Z",
+        "updated_at": "2023-09-05T12:43:59.143Z",
+        "banking_service_id": "d70de6a8-a9b0-4682-9f3e-ff1f8ca2588e",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "fc8d6675-9379-4625-91ee-0b650a907289",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c906a0fa-d719-4a78-a3bb-4f8dd37beb9e",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-05T17:50:42.877Z",
+        "customer_end_date": "2023-09-06T04:03:15.538Z",
+        "created_at": "2023-09-05T12:30:41.245Z",
+        "updated_at": "2023-09-05T23:01:36.226Z",
+        "banking_service_id": "a1777849-6d87-4093-a41b-06553716c45c",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "28da31a2-56bd-494d-bd4b-79e9da10f8e4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13fa0e8a-20ee-45e7-aebe-6a45ce8de5ad",
+        "customer_status": "Suspended",
+        "customer_start_date": "2023-09-05T08:40:19.798Z",
+        "customer_end_date": "2023-09-05T13:10:00.393Z",
+        "created_at": "2023-09-05T16:34:03.555Z",
+        "updated_at": "2023-09-06T00:08:16.049Z",
+        "banking_service_id": "d70de6a8-a9b0-4682-9f3e-ff1f8ca2588e",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "af1e532f-7387-4c58-9197-6af2b49cee92",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0bb2f48-3704-485a-be42-4ed3e5afca56",
+        "customer_status": "Closed",
+        "customer_start_date": "2023-09-05T19:42:55.155Z",
+        "customer_end_date": "2023-09-05T14:20:18.351Z",
+        "created_at": "2023-09-05T10:19:14.084Z",
+        "updated_at": "2023-09-05T04:33:40.253Z",
+        "banking_service_id": "a1777849-6d87-4093-a41b-06553716c45c",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "af1e532f-7387-4c58-9197-6af2b49cee92",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "64445b80-aa26-402c-ac91-3e204f9b968d",
+        "email": "Clair_Wilderman@yahoo.com",
+        "firstName": "General",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79152498",
+        "tenantId": null
+      },
+      {
+        "reference": "f0c28bd4-7334-449d-b40b-2a87fa683703",
+        "email": "Mina.Mosciski@gmail.com",
+        "firstName": "Ewald",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/56.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "04d19767-abec-493e-92d2-1ca15098eeec",
+        "email": "Franz29@hotmail.com",
+        "firstName": "Bryon",
+        "lastName": "Steuber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/716.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d21688c2-fd47-4ffc-8572-392d28df45d3",
+        "email": "Paula_Windler30@gmail.com",
+        "firstName": "Melba",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/233.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b73fc778-4c62-40b6-bd5a-77a3359c8db6",
+        "email": "Richmond.Bradtke@gmail.com",
+        "firstName": "Minnie",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/317.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "ba97ae55-45db-4ead-aa87-7885597b43dd",
+        "score": 36028,
+        "nps_date": "2023-09-05T19:57:31.131Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-05T20:59:31.093Z",
+        "updated_at": "2023-09-05T22:47:27.577Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e78b69e6-bc71-4488-9bab-01d90ca7d5d4",
+        "score": 83032,
+        "nps_date": "2023-09-05T09:15:27.296Z",
+        "nps_status": "Passive",
+        "nps_comment": "Could be better",
+        "created_at": "2023-09-05T22:56:32.480Z",
+        "updated_at": "2023-09-06T00:14:52.090Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ee2d41c-f281-4327-b682-179866569334",
+        "score": 56327,
+        "nps_date": "2023-09-05T15:26:32.654Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Not satisfied",
+        "created_at": "2023-09-05T19:36:38.198Z",
+        "updated_at": "2023-09-06T00:10:22.196Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "04d8300f-c4a5-4311-9fde-41a78c261eeb",
+        "score": 808,
+        "nps_date": "2023-09-06T03:17:13.176Z",
+        "nps_status": "Neutral",
+        "nps_comment": "No complaints",
+        "created_at": "2023-09-06T02:20:01.662Z",
+        "updated_at": "2023-09-05T23:18:13.093Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "46d099fa-99cc-4d79-a273-bc6778adb64c",
+        "score": 49659,
+        "nps_date": "2023-09-05T15:49:01.522Z",
+        "nps_status": "Advocate",
+        "nps_comment": "Highly recommended",
+        "created_at": "2023-09-05T22:17:28.201Z",
+        "updated_at": "2023-09-05T19:38:08.383Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "8447ef05-8dab-473d-874a-73a27dc9a603",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T09:19:27.302Z",
+        "policy_end_date": "2023-09-06T02:25:38.630Z",
+        "created_at": "2023-09-05T15:35:44.494Z",
+        "updated_at": "2023-09-05T06:42:49.028Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efb4d1c1-513d-4364-a62c-e0baaffee7c0",
+        "policy_name": "Home Insurance",
+        "policy_details": "Property protection",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-05T20:44:59.023Z",
+        "policy_end_date": "2023-09-05T18:48:00.245Z",
+        "created_at": "2023-09-05T05:08:20.901Z",
+        "updated_at": "2023-09-06T02:14:57.689Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa43b8cd-cb30-44d9-a703-eff1506f0d78",
+        "policy_name": "Life Insurance",
+        "policy_details": "Term life",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T22:46:54.072Z",
+        "policy_end_date": "2023-09-06T00:17:56.333Z",
+        "created_at": "2023-09-05T14:32:26.425Z",
+        "updated_at": "2023-09-05T19:02:13.711Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "392838a9-3c4c-474f-a541-1d6c926b585f",
+        "policy_name": "Health Insurance",
+        "policy_details": "Medical expenses",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-06T03:41:32.518Z",
+        "policy_end_date": "2023-09-05T23:08:24.663Z",
+        "created_at": "2023-09-05T21:29:38.965Z",
+        "updated_at": "2023-09-05T16:12:04.454Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fa4db16-6af5-4293-90c9-2b0394283b29",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Trip cancellation",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-05T21:50:43.948Z",
+        "policy_end_date": "2023-09-06T02:15:51.800Z",
+        "created_at": "2023-09-05T20:11:09.017Z",
+        "updated_at": "2023-09-05T17:27:02.734Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "66456e77-1339-471d-8fec-523e19c0cb61",
+        "service_name": "Checking Account",
+        "service_details": "No monthly fees",
+        "service_status": "Active",
+        "service_start_date": "2023-09-05T15:57:37.849Z",
+        "service_end_date": "2023-09-06T00:09:23.708Z",
+        "created_at": "2023-09-05T23:45:34.310Z",
+        "updated_at": "2023-09-05T22:39:23.582Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39d27030-d53e-4677-8be1-613656a3c06e",
+        "service_name": "Savings Account",
+        "service_details": "Competitive interest rates",
+        "service_status": "Inactive",
+        "service_start_date": "2023-09-05T05:12:40.115Z",
+        "service_end_date": "2023-09-05T19:58:54.222Z",
+        "created_at": "2023-09-06T04:10:08.455Z",
+        "updated_at": "2023-09-05T10:02:56.615Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06c6cf12-f72b-488a-a3bd-5d734a202c09",
+        "service_name": "Credit Card",
+        "service_details": "Rewards program",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-06T00:08:39.200Z",
+        "service_end_date": "2023-09-05T13:29:02.572Z",
+        "created_at": "2023-09-05T10:32:39.103Z",
+        "updated_at": "2023-09-05T10:13:17.248Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "838f9dd2-a4fb-45df-a5ab-de283863245d",
+        "service_name": "Mortgage Loan",
+        "service_details": "Flexible repayment options",
+        "service_status": "Cancelled",
+        "service_start_date": "2023-09-05T12:18:34.156Z",
+        "service_end_date": "2023-09-05T17:41:01.207Z",
+        "created_at": "2023-09-05T09:17:08.448Z",
+        "updated_at": "2023-09-06T02:20:24.694Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac5f7b7f-871b-488e-998d-b0c7e8bca618",
+        "service_name": "Personal Loan",
+        "service_details": "Quick approval process",
+        "service_status": "Closed",
+        "service_start_date": "2023-09-06T02:32:27.566Z",
+        "service_end_date": "2023-09-05T04:52:40.285Z",
+        "created_at": "2023-09-05T18:23:00.925Z",
+        "updated_at": "2023-09-05T17:56:57.077Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "a069a77f-3da8-419f-80e2-8e8d38cfe87f",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T21:32:04.741Z",
+        "customer_end_date": "2023-09-05T23:43:37.247Z",
+        "created_at": "2023-09-05T19:02:52.220Z",
+        "updated_at": "2023-09-05T13:21:43.579Z",
+        "banking_service_id": "ac5f7b7f-871b-488e-998d-b0c7e8bca618",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "fa43b8cd-cb30-44d9-a703-eff1506f0d78",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4cd412e-0782-4fef-a0d7-eae7d533d523",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T18:56:51.090Z",
+        "customer_end_date": "2023-09-05T19:42:58.099Z",
+        "created_at": "2023-09-05T18:55:44.905Z",
+        "updated_at": "2023-09-05T16:09:11.700Z",
+        "banking_service_id": "838f9dd2-a4fb-45df-a5ab-de283863245d",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "8447ef05-8dab-473d-874a-73a27dc9a603",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba29b73a-3e99-4e51-bcad-5aa9c38f9f81",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-05T22:59:40.763Z",
+        "customer_end_date": "2023-09-05T20:49:10.476Z",
+        "created_at": "2023-09-05T12:43:20.078Z",
+        "updated_at": "2023-09-05T19:38:37.090Z",
+        "banking_service_id": "66456e77-1339-471d-8fec-523e19c0cb61",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "8447ef05-8dab-473d-874a-73a27dc9a603",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99464221-0303-4374-89ea-e591e56f51f8",
+        "customer_status": "Blocked",
+        "customer_start_date": "2023-09-05T22:33:22.632Z",
+        "customer_end_date": "2023-09-05T09:27:05.266Z",
+        "created_at": "2023-09-05T08:53:30.217Z",
+        "updated_at": "2023-09-05T17:16:46.543Z",
+        "banking_service_id": "06c6cf12-f72b-488a-a3bd-5d734a202c09",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "8447ef05-8dab-473d-874a-73a27dc9a603",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a789ecd-1294-4e8d-ac82-28c556084bf8",
+        "customer_status": "Verified",
+        "customer_start_date": "2023-09-06T03:31:35.569Z",
+        "customer_end_date": "2023-09-05T07:52:16.266Z",
+        "created_at": "2023-09-05T11:01:12.353Z",
+        "updated_at": "2023-09-05T06:22:46.710Z",
+        "banking_service_id": "838f9dd2-a4fb-45df-a5ab-de283863245d",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "fa43b8cd-cb30-44d9-a703-eff1506f0d78",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b82dfd40-3a1b-4711-aaff-4bc11594d90b",
+        "email": "Ludwig.Pollich3@gmail.com",
+        "firstName": "Barbara",
+        "lastName": "Dibbert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79562438",
+        "tenantId": null
+      },
+      {
+        "reference": "aac4b554-b129-4d47-822c-aac0fe2d8615",
+        "email": "Lorenza46@hotmail.com",
+        "firstName": "Joey",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/75.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b471fb93-e925-491d-949b-51b13c5f0eb7",
+        "email": "Micaela82@yahoo.com",
+        "firstName": "Obie",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77163875",
+        "tenantId": null
+      },
+      {
+        "reference": "e1047674-1ea8-4aaf-b1f9-3fc907d7b4f1",
+        "email": "Ralph44@yahoo.com",
+        "firstName": "Hettie",
+        "lastName": "Littel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/55.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d6bc8d1f-6597-4459-9868-bdf1c1ea3854",
+        "email": "Helena_Stanton50@yahoo.com",
+        "firstName": "Rosie",
+        "lastName": "Blanda",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/993.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "c855777f-839e-4071-989d-e3b92a5b8bbd",
+        "score": 11506,
+        "nps_date": "2023-09-06T00:56:55.320Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-06T03:42:31.513Z",
+        "updated_at": "2023-09-05T11:17:47.485Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26b1f3ab-f1a3-434d-a2ef-d35f46113f42",
+        "score": 74429,
+        "nps_date": "2023-09-05T21:33:30.659Z",
+        "nps_status": "Passive",
+        "nps_comment": "Could be better",
+        "created_at": "2023-09-05T14:16:38.042Z",
+        "updated_at": "2023-09-05T09:35:41.280Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0000103-f01c-4d3c-b5df-93c337b3b785",
+        "score": 479,
+        "nps_date": "2023-09-05T08:13:50.984Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Not satisfied",
+        "created_at": "2023-09-05T19:16:52.014Z",
+        "updated_at": "2023-09-05T08:46:32.576Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82f1eb87-8e3b-4ae1-b261-8676498834c4",
+        "score": 20397,
+        "nps_date": "2023-09-05T13:11:24.497Z",
+        "nps_status": "Neutral",
+        "nps_comment": "Average experience",
+        "created_at": "2023-09-05T11:52:36.830Z",
+        "updated_at": "2023-09-05T14:41:35.263Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd1c8724-4917-4324-ad61-d184bdd52baf",
+        "score": 34692,
+        "nps_date": "2023-09-06T01:40:03.662Z",
+        "nps_status": "Satisfied",
+        "nps_comment": "Highly recommended",
+        "created_at": "2023-09-05T17:36:12.648Z",
+        "updated_at": "2023-09-05T09:43:10.636Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "0cd3d657-e817-4c70-a79c-5af44c19e374",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T08:36:30.197Z",
+        "policy_end_date": "2023-09-05T14:15:38.098Z",
+        "created_at": "2023-09-06T02:46:46.572Z",
+        "updated_at": "2023-09-05T21:11:45.361Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "660512fd-7c38-4a79-a8f3-4c981e672978",
+        "policy_name": "Home Insurance",
+        "policy_details": "Multiple riders",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-05T10:28:38.168Z",
+        "policy_end_date": "2023-09-05T17:50:16.193Z",
+        "created_at": "2023-09-06T04:12:49.848Z",
+        "updated_at": "2023-09-05T15:23:20.423Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fff2195-a7d4-4fad-a376-7ca9c5d499a5",
+        "policy_name": "Health Insurance",
+        "policy_details": "Affordable premiums",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-05T11:25:43.233Z",
+        "policy_end_date": "2023-09-05T09:18:10.754Z",
+        "created_at": "2023-09-06T02:45:34.369Z",
+        "updated_at": "2023-09-05T18:20:29.565Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f6df4a5-bc47-4354-97e4-f87a6153e542",
+        "policy_name": "Travel Insurance",
+        "policy_details": "24/7 customer support",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T22:32:04.492Z",
+        "policy_end_date": "2023-09-06T00:29:14.841Z",
+        "created_at": "2023-09-05T05:50:07.347Z",
+        "updated_at": "2023-09-05T09:34:40.525Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "558113e8-ae83-44b3-92d4-88f69fc408ac",
+        "policy_name": "Life Insurance",
+        "policy_details": "Quick claims settlement",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-06T04:08:52.097Z",
+        "policy_end_date": "2023-09-06T03:51:37.674Z",
+        "created_at": "2023-09-05T06:08:43.131Z",
+        "updated_at": "2023-09-05T07:27:55.816Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "fd99c688-082c-4d6b-990f-656bc571a79f",
+        "service_name": "Online banking",
+        "service_details": "Convenient and secure",
+        "service_status": "Available",
+        "service_start_date": "2023-09-06T03:25:20.379Z",
+        "service_end_date": "2023-09-05T16:21:04.116Z",
+        "created_at": "2023-09-05T20:01:48.542Z",
+        "updated_at": "2023-09-05T17:41:08.711Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9be8fcbf-d9ab-4611-a706-90b27e2c8f30",
+        "service_name": "Mobile banking",
+        "service_details": "Access anytime, anywhere",
+        "service_status": "Temporarily unavailable",
+        "service_start_date": "2023-09-05T18:55:29.875Z",
+        "service_end_date": "2023-09-05T21:59:59.464Z",
+        "created_at": "2023-09-05T07:54:09.546Z",
+        "updated_at": "2023-09-05T10:51:24.638Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33fe5865-b60d-4456-9fc8-f9d4950f7724",
+        "service_name": "ATM services",
+        "service_details": "Wide network of ATMs",
+        "service_status": "Under maintenance",
+        "service_start_date": "2023-09-05T11:14:00.874Z",
+        "service_end_date": "2023-09-05T19:36:19.845Z",
+        "created_at": "2023-09-05T07:00:31.542Z",
+        "updated_at": "2023-09-06T03:52:42.666Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f140ca07-b66e-4351-8f2f-c9d3b66d7e4d",
+        "service_name": "Foreign currency exchange",
+        "service_details": "Competitive exchange rates",
+        "service_status": "Limited functionality",
+        "service_start_date": "2023-09-05T06:57:39.165Z",
+        "service_end_date": "2023-09-06T01:10:23.432Z",
+        "created_at": "2023-09-05T15:12:16.862Z",
+        "updated_at": "2023-09-06T03:55:56.644Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1c54a23-a605-41a6-b794-ec36cb04ad80",
+        "service_name": "Safe deposit boxes",
+        "service_details": "Secure storage for valuables",
+        "service_status": "Out of service",
+        "service_start_date": "2023-09-05T11:43:19.936Z",
+        "service_end_date": "2023-09-05T23:16:13.458Z",
+        "created_at": "2023-09-06T00:09:25.634Z",
+        "updated_at": "2023-09-06T00:39:48.188Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "ebc0443c-da68-40eb-916d-f8c0c2311ffe",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T11:22:34.540Z",
+        "customer_end_date": "2023-09-05T18:40:17.860Z",
+        "created_at": "2023-09-06T03:12:56.787Z",
+        "updated_at": "2023-09-05T20:56:04.630Z",
+        "banking_service_id": "9be8fcbf-d9ab-4611-a706-90b27e2c8f30",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "0cd3d657-e817-4c70-a79c-5af44c19e374",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38b8c362-6e31-4a53-9248-722b41314477",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T11:49:17.756Z",
+        "customer_end_date": "2023-09-05T18:55:26.066Z",
+        "created_at": "2023-09-05T10:30:05.625Z",
+        "updated_at": "2023-09-05T07:31:27.387Z",
+        "banking_service_id": "33fe5865-b60d-4456-9fc8-f9d4950f7724",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "558113e8-ae83-44b3-92d4-88f69fc408ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "854c1fe6-a0d6-416f-9f8f-9086d221fb37",
+        "customer_status": "Prospective",
+        "customer_start_date": "2023-09-05T23:59:22.121Z",
+        "customer_end_date": "2023-09-05T09:41:20.577Z",
+        "created_at": "2023-09-06T00:49:56.498Z",
+        "updated_at": "2023-09-05T19:13:41.074Z",
+        "banking_service_id": "9be8fcbf-d9ab-4611-a706-90b27e2c8f30",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "660512fd-7c38-4a79-a8f3-4c981e672978",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2b43749-a9a9-4ddf-b30f-8b5987148e98",
+        "customer_status": "Suspended",
+        "customer_start_date": "2023-09-05T22:55:33.593Z",
+        "customer_end_date": "2023-09-06T00:13:40.973Z",
+        "created_at": "2023-09-05T21:56:08.247Z",
+        "updated_at": "2023-09-05T23:59:10.403Z",
+        "banking_service_id": "fd99c688-082c-4d6b-990f-656bc571a79f",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "558113e8-ae83-44b3-92d4-88f69fc408ac",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9c40558-c334-42e7-991a-c5ac386f4e70",
+        "customer_status": "Cancelled",
+        "customer_start_date": "2023-09-06T04:09:23.054Z",
+        "customer_end_date": "2023-09-05T20:43:03.939Z",
+        "created_at": "2023-09-05T08:21:53.358Z",
+        "updated_at": "2023-09-05T18:45:15.030Z",
+        "banking_service_id": "f140ca07-b66e-4351-8f2f-c9d3b66d7e4d",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "660512fd-7c38-4a79-a8f3-4c981e672978",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a3d4a769-16de-4552-9bb0-51465a81e2a3",
+        "email": "Ellie.Zemlak9@gmail.com",
+        "firstName": "Emmett",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61157161",
+        "tenantId": null
+      },
+      {
+        "reference": "00b2bf57-1627-47d7-bb07-c2d8e1914fca",
+        "email": "Guillermo42@gmail.com",
+        "firstName": "Donnell",
+        "lastName": "Farrell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/842.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ce96d679-834d-47a4-850f-7fc27b9d8eed",
+        "email": "Jonatan87@hotmail.com",
+        "firstName": "Amina",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20562839",
+        "tenantId": null
+      },
+      {
+        "reference": "c529fb22-a56d-4de2-911d-bffb100dba16",
+        "email": "Wilmer_Windler20@yahoo.com",
+        "firstName": "Rosario",
+        "lastName": "Tillman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25658836",
+        "tenantId": null
+      },
+      {
+        "reference": "94d075b8-78fd-4186-81fa-db6f7256e187",
+        "email": "Dedrick99@hotmail.com",
+        "firstName": "Gwen",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33062369",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "f6b09f82-9165-4fea-a4af-5d9d7d53e6ff",
+        "score": 9625,
+        "nps_date": "2023-09-05T07:50:55.168Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-05T09:02:10.107Z",
+        "updated_at": "2023-09-05T23:15:50.994Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bf6b711a-488f-4f46-89f3-bae2588ea2f1",
+        "score": 7953,
+        "nps_date": "2023-09-05T18:27:22.418Z",
+        "nps_status": "Passive",
+        "nps_comment": "Could be better",
+        "created_at": "2023-09-06T01:28:55.148Z",
+        "updated_at": "2023-09-05T22:36:22.251Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "859d4e61-5984-4897-bc16-bb5682a10b3e",
+        "score": 86899,
+        "nps_date": "2023-09-05T18:48:36.659Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Not satisfied",
+        "created_at": "2023-09-05T12:01:30.758Z",
+        "updated_at": "2023-09-05T04:56:32.662Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e534b17-96ed-407e-aa9e-6b4220ee7aaa",
+        "score": 35801,
+        "nps_date": "2023-09-05T21:39:32.623Z",
+        "nps_status": "Neutral",
+        "nps_comment": "Average experience",
+        "created_at": "2023-09-06T00:36:57.641Z",
+        "updated_at": "2023-09-05T18:08:09.836Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a51d3c9-9ab9-460a-b852-8411c59be316",
+        "score": 59345,
+        "nps_date": "2023-09-05T11:39:05.526Z",
+        "nps_status": "Advocate",
+        "nps_comment": "Highly recommended",
+        "created_at": "2023-09-05T07:32:29.788Z",
+        "updated_at": "2023-09-06T01:17:49.287Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "a1b85467-21ec-4d12-a280-a9ed09e38296",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T20:59:23.160Z",
+        "policy_end_date": "2023-09-05T06:36:00.361Z",
+        "created_at": "2023-09-06T01:01:15.435Z",
+        "updated_at": "2023-09-05T16:31:51.168Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb1847ce-a81c-4e75-9a66-f6b2695eb48e",
+        "policy_name": "Home Insurance",
+        "policy_details": "Multiple riders",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-05T20:03:51.289Z",
+        "policy_end_date": "2023-09-05T21:52:56.631Z",
+        "created_at": "2023-09-05T18:25:29.283Z",
+        "updated_at": "2023-09-06T02:55:54.198Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68cbcccc-37dc-46a7-acc1-3373b692a0eb",
+        "policy_name": "Health Insurance",
+        "policy_details": "Flexible premium options",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T08:55:04.326Z",
+        "policy_end_date": "2023-09-05T10:50:54.837Z",
+        "created_at": "2023-09-05T21:03:36.128Z",
+        "updated_at": "2023-09-05T07:55:26.640Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2636865b-bdb9-421c-bae9-22cfd84a35b7",
+        "policy_name": "Life Insurance",
+        "policy_details": "Cash value accumulation",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-05T14:30:27.171Z",
+        "policy_end_date": "2023-09-05T11:23:08.336Z",
+        "created_at": "2023-09-05T21:38:14.364Z",
+        "updated_at": "2023-09-05T16:33:50.763Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc3fa060-d799-4a2c-8548-c058b0de5325",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Emergency medical coverage",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-06T00:37:36.959Z",
+        "policy_end_date": "2023-09-05T18:41:31.715Z",
+        "created_at": "2023-09-05T20:19:51.545Z",
+        "updated_at": "2023-09-05T07:49:19.324Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "c3f64c02-e63c-4def-92fa-32c6efef1203",
+        "service_name": "Checking Account",
+        "service_details": "No monthly fees",
+        "service_status": "Active",
+        "service_start_date": "2023-09-06T02:43:55.345Z",
+        "service_end_date": "2023-09-05T22:16:32.866Z",
+        "created_at": "2023-09-05T20:37:27.606Z",
+        "updated_at": "2023-09-05T16:25:09.490Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71e72af0-8988-43d8-a6da-a3bdd9d67a7d",
+        "service_name": "Savings Account",
+        "service_details": "Competitive interest rates",
+        "service_status": "Closed",
+        "service_start_date": "2023-09-05T05:36:40.094Z",
+        "service_end_date": "2023-09-05T11:41:50.155Z",
+        "created_at": "2023-09-05T16:12:54.806Z",
+        "updated_at": "2023-09-06T01:46:29.527Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d8ae31c-ed63-4ff4-987f-eeaba5d25590",
+        "service_name": "Credit Card",
+        "service_details": "Cashback rewards",
+        "service_status": "Suspended",
+        "service_start_date": "2023-09-05T06:00:32.446Z",
+        "service_end_date": "2023-09-05T23:29:55.025Z",
+        "created_at": "2023-09-05T08:37:02.459Z",
+        "updated_at": "2023-09-05T09:02:09.099Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c821cf27-43e9-408c-8f02-78b7ec741941",
+        "service_name": "Mortgage Loan",
+        "service_details": "Flexible repayment terms",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-06T02:28:51.694Z",
+        "service_end_date": "2023-09-06T02:48:36.684Z",
+        "created_at": "2023-09-05T13:17:23.939Z",
+        "updated_at": "2023-09-05T20:19:04.227Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "32bd5c07-0826-45e7-913e-1700798881bf",
+        "service_name": "Business Loan",
+        "service_details": "Quick approval process",
+        "service_status": "Blocked",
+        "service_start_date": "2023-09-05T20:24:54.658Z",
+        "service_end_date": "2023-09-05T13:21:56.759Z",
+        "created_at": "2023-09-05T13:23:15.448Z",
+        "updated_at": "2023-09-05T20:31:03.541Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "0297b5a5-6ef7-483d-a98a-d4f8d53c9556",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T20:05:45.358Z",
+        "customer_end_date": "2023-09-05T15:37:10.158Z",
+        "created_at": "2023-09-05T19:44:20.085Z",
+        "updated_at": "2023-09-05T05:50:23.761Z",
+        "banking_service_id": "c3f64c02-e63c-4def-92fa-32c6efef1203",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "cb1847ce-a81c-4e75-9a66-f6b2695eb48e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "628da87e-8a84-4344-989d-d585e8d1deea",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-06T03:41:41.716Z",
+        "customer_end_date": "2023-09-05T18:26:15.508Z",
+        "created_at": "2023-09-05T08:21:30.816Z",
+        "updated_at": "2023-09-05T09:35:08.236Z",
+        "banking_service_id": "c821cf27-43e9-408c-8f02-78b7ec741941",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "68cbcccc-37dc-46a7-acc1-3373b692a0eb",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac4b6887-8908-4cfd-b2dc-63ebb23e592f",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-05T22:24:21.987Z",
+        "customer_end_date": "2023-09-05T10:15:48.022Z",
+        "created_at": "2023-09-05T05:17:29.864Z",
+        "updated_at": "2023-09-05T22:45:32.302Z",
+        "banking_service_id": "c821cf27-43e9-408c-8f02-78b7ec741941",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "a1b85467-21ec-4d12-a280-a9ed09e38296",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8fcb5be9-37f3-4a91-bb31-7678292a44df",
+        "customer_status": "Verified",
+        "customer_start_date": "2023-09-05T12:20:31.268Z",
+        "customer_end_date": "2023-09-06T02:29:52.953Z",
+        "created_at": "2023-09-05T19:10:33.703Z",
+        "updated_at": "2023-09-05T13:39:36.881Z",
+        "banking_service_id": "c821cf27-43e9-408c-8f02-78b7ec741941",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "a1b85467-21ec-4d12-a280-a9ed09e38296",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8f5a131-edd5-400c-a2d2-18f9532d1f06",
+        "customer_status": "Blocked",
+        "customer_start_date": "2023-09-05T19:33:30.418Z",
+        "customer_end_date": "2023-09-05T11:36:49.571Z",
+        "created_at": "2023-09-05T12:24:52.869Z",
+        "updated_at": "2023-09-06T01:43:39.237Z",
+        "banking_service_id": "c3f64c02-e63c-4def-92fa-32c6efef1203",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "68cbcccc-37dc-46a7-acc1-3373b692a0eb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7e844433-bce1-4840-ae85-5404e5bcc69e",
+        "email": "Maurine_Muller@yahoo.com",
+        "firstName": "Nyasia",
+        "lastName": "Walker",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/753.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e85fec76-7d6f-40e5-a0eb-3193b3c49435",
+        "email": "Elyse28@hotmail.com",
+        "firstName": "Emil",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/395.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2f75f91e-97b5-4a03-8d14-26c55459a847",
+        "email": "Laurie_Ullrich60@hotmail.com",
+        "firstName": "Cruz",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/244.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "32f4a7e3-3345-468f-86c9-dc24fa666a9d",
+        "email": "Dan.Renner-Kessler24@gmail.com",
+        "firstName": "Ada",
+        "lastName": "Lueilwitz-Friesen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/95.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "96fca569-7926-4a49-be39-0ddcbe57fbda",
+        "email": "Sandy63@hotmail.com",
+        "firstName": "Scot",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70903018",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "5676bedb-7e2f-4a2f-9606-acc25bc17616",
+        "score": 70318,
+        "nps_date": "2023-09-06T00:36:16.505Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service, highly recommend!",
+        "created_at": "2023-09-06T00:11:35.749Z",
+        "updated_at": "2023-09-05T13:30:50.790Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a76d4eee-319d-450f-8633-7aed10ca063e",
+        "score": 23335,
+        "nps_date": "2023-09-05T22:47:56.153Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Terrible experience, would not use again",
+        "created_at": "2023-09-05T23:52:12.339Z",
+        "updated_at": "2023-09-06T01:39:19.619Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9667e214-67f8-4140-9eb1-fb3d4b5bf8a7",
+        "score": 46439,
+        "nps_date": "2023-09-05T18:59:52.676Z",
+        "nps_status": "Passive",
+        "nps_comment": "Average service, nothing special",
+        "created_at": "2023-09-06T03:00:45.047Z",
+        "updated_at": "2023-09-06T00:24:30.972Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e991036-f0c1-4b7b-a63d-80c3b6b547a5",
+        "score": 54976,
+        "nps_date": "2023-09-05T05:31:49.501Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Excellent customer support!",
+        "created_at": "2023-09-05T09:20:44.763Z",
+        "updated_at": "2023-09-05T16:01:13.645Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6296ad70-8d97-459c-8b27-848b428b93a0",
+        "score": 56467,
+        "nps_date": "2023-09-05T07:26:44.443Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Very poor communication",
+        "created_at": "2023-09-05T19:49:19.493Z",
+        "updated_at": "2023-09-06T04:00:14.527Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "29a6558d-e1d1-494b-a0cb-205c89afbc61",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage for your vehicle",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T05:01:36.057Z",
+        "policy_end_date": "2023-09-06T04:16:54.398Z",
+        "created_at": "2023-09-05T11:33:32.291Z",
+        "updated_at": "2023-09-06T01:05:59.150Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91d85b2b-b07f-448f-bacb-69916c858356",
+        "policy_name": "Home Insurance",
+        "policy_details": "Protection for your home and belongings",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-06T01:14:19.938Z",
+        "policy_end_date": "2023-09-05T10:46:19.035Z",
+        "created_at": "2023-09-05T10:44:22.618Z",
+        "updated_at": "2023-09-05T15:24:10.492Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ea7a7bf-02c1-4c23-bcbe-f2e57c556bf0",
+        "policy_name": "Life Insurance",
+        "policy_details": "Financial security for your loved ones",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-05T09:02:27.768Z",
+        "policy_end_date": "2023-09-05T09:05:59.035Z",
+        "created_at": "2023-09-05T14:03:23.318Z",
+        "updated_at": "2023-09-05T22:37:23.143Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1c28173-ad5c-436e-97fa-2836913ffa04",
+        "policy_name": "Health Insurance",
+        "policy_details": "Medical expenses coverage",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T14:04:18.406Z",
+        "policy_end_date": "2023-09-05T23:59:37.524Z",
+        "created_at": "2023-09-06T03:22:48.148Z",
+        "updated_at": "2023-09-05T15:02:08.337Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c4d1ad1-3403-4abf-b1e1-964cba570e7b",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Coverage for unexpected travel incidents",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-05T21:56:59.399Z",
+        "policy_end_date": "2023-09-05T08:59:58.260Z",
+        "created_at": "2023-09-06T01:42:04.878Z",
+        "updated_at": "2023-09-05T12:43:19.031Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "69eae753-89fa-4772-a040-6a25c252f749",
+        "service_name": "Checking Account",
+        "service_details": "Convenient access to your funds",
+        "service_status": "Active",
+        "service_start_date": "2023-09-05T11:04:36.686Z",
+        "service_end_date": "2023-09-05T21:32:53.013Z",
+        "created_at": "2023-09-06T02:34:03.492Z",
+        "updated_at": "2023-09-05T19:57:01.334Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f771f9b-5080-40a9-8383-af15fb659f2f",
+        "service_name": "Savings Account",
+        "service_details": "Higher interest rates for your savings",
+        "service_status": "Inactive",
+        "service_start_date": "2023-09-05T18:33:58.025Z",
+        "service_end_date": "2023-09-05T08:42:42.114Z",
+        "created_at": "2023-09-05T22:50:16.355Z",
+        "updated_at": "2023-09-05T20:44:29.585Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16a809bd-b9e1-45af-b3bb-5579dbdf6396",
+        "service_name": "Credit Card",
+        "service_details": "Rewards and cashback benefits",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-06T03:00:35.154Z",
+        "service_end_date": "2023-09-05T08:51:41.203Z",
+        "created_at": "2023-09-05T09:35:06.283Z",
+        "updated_at": "2023-09-06T00:21:00.883Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "242c10c1-9e9f-4f72-ba76-3ae9f89289c9",
+        "service_name": "Personal Loan",
+        "service_details": "Flexible financing options",
+        "service_status": "Suspended",
+        "service_start_date": "2023-09-05T10:38:43.795Z",
+        "service_end_date": "2023-09-05T19:23:16.980Z",
+        "created_at": "2023-09-05T11:29:18.479Z",
+        "updated_at": "2023-09-05T06:33:04.502Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5226e2c-92ad-4612-8e0c-efcf3b718044",
+        "service_name": "Business Banking",
+        "service_details": "Tailored solutions for your business",
+        "service_status": "Closed",
+        "service_start_date": "2023-09-06T03:16:18.439Z",
+        "service_end_date": "2023-09-06T00:23:55.766Z",
+        "created_at": "2023-09-05T14:45:06.298Z",
+        "updated_at": "2023-09-05T09:57:18.845Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "2213c4a8-df84-4ca6-95c3-92306d5b548e",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T05:45:47.527Z",
+        "customer_end_date": "2023-09-05T07:46:07.325Z",
+        "created_at": "2023-09-05T22:34:41.091Z",
+        "updated_at": "2023-09-05T10:44:40.527Z",
+        "banking_service_id": "69eae753-89fa-4772-a040-6a25c252f749",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "91d85b2b-b07f-448f-bacb-69916c858356",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "474b307b-cefa-48c2-ba7b-87ea28f6a0bc",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T19:24:17.900Z",
+        "customer_end_date": "2023-09-05T05:34:57.908Z",
+        "created_at": "2023-09-05T04:48:33.428Z",
+        "updated_at": "2023-09-05T13:01:34.673Z",
+        "banking_service_id": "9f771f9b-5080-40a9-8383-af15fb659f2f",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "29a6558d-e1d1-494b-a0cb-205c89afbc61",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2757d8cf-1cdb-4b29-8617-d605f4dfd063",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-06T00:48:11.560Z",
+        "customer_end_date": "2023-09-05T15:03:31.010Z",
+        "created_at": "2023-09-05T11:28:44.040Z",
+        "updated_at": "2023-09-05T05:48:56.695Z",
+        "banking_service_id": "242c10c1-9e9f-4f72-ba76-3ae9f89289c9",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "a1c28173-ad5c-436e-97fa-2836913ffa04",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cea087bb-da3f-48a6-b490-7652444b6efb",
+        "customer_status": "Suspended",
+        "customer_start_date": "2023-09-05T16:57:38.884Z",
+        "customer_end_date": "2023-09-05T11:03:17.722Z",
+        "created_at": "2023-09-05T18:54:19.116Z",
+        "updated_at": "2023-09-05T09:25:43.744Z",
+        "banking_service_id": "242c10c1-9e9f-4f72-ba76-3ae9f89289c9",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "6ea7a7bf-02c1-4c23-bcbe-f2e57c556bf0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec763a7f-4e00-4b87-bf6f-2766d048d7ea",
+        "customer_status": "Closed",
+        "customer_start_date": "2023-09-05T09:45:02.402Z",
+        "customer_end_date": "2023-09-05T09:13:04.356Z",
+        "created_at": "2023-09-05T08:54:27.734Z",
+        "updated_at": "2023-09-06T02:04:46.291Z",
+        "banking_service_id": "16a809bd-b9e1-45af-b3bb-5579dbdf6396",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "29a6558d-e1d1-494b-a0cb-205c89afbc61",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7d05784a-07b2-4b1c-b5db-ad3884f9985f",
+        "email": "Faye7@hotmail.com",
+        "firstName": "Eva",
+        "lastName": "Daugherty-Weber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88710992",
+        "tenantId": null
+      },
+      {
+        "reference": "fad33e47-b525-4168-a3b9-c026c4c1b531",
+        "email": "Idella95@yahoo.com",
+        "firstName": "Kylie",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/912.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1809fcb0-bd7a-4a2c-a4fa-6e57323a4e20",
+        "email": "Ardith.Nader@hotmail.com",
+        "firstName": "Emma",
+        "lastName": "Rolfson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/65.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "eadfb0e5-eda7-449e-99d6-7a2623f4763e",
+        "email": "Ashley32@yahoo.com",
+        "firstName": "Cicero",
+        "lastName": "Jaskolski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/818.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "32b8ffa4-f9b0-4a18-b1f1-cdd349274026",
+        "email": "Dean.Considine20@yahoo.com",
+        "firstName": "Francisca",
+        "lastName": "Kozey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91917612",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "nps": [
+      {
+        "id": "72931789-fde9-496c-8f2b-e251a47724fe",
+        "score": 69470,
+        "nps_date": "2023-09-06T04:19:43.887Z",
+        "nps_status": "Promoter",
+        "nps_comment": "Great service!",
+        "created_at": "2023-09-06T03:15:33.167Z",
+        "updated_at": "2023-09-05T19:37:41.816Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93b47bef-f634-43f4-b9b1-e753d9be6d23",
+        "score": 8282,
+        "nps_date": "2023-09-05T08:27:39.665Z",
+        "nps_status": "Detractor",
+        "nps_comment": "Terrible experience.",
+        "created_at": "2023-09-05T13:17:22.419Z",
+        "updated_at": "2023-09-06T03:13:21.707Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3204e776-82e3-44a5-a219-63aff846c477",
+        "score": 59474,
+        "nps_date": "2023-09-05T16:45:47.322Z",
+        "nps_status": "Passive",
+        "nps_comment": "Average performance.",
+        "created_at": "2023-09-05T11:43:18.020Z",
+        "updated_at": "2023-09-05T20:41:17.670Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60eb4bf1-71c5-4dd9-adb1-06d5daac38a4",
+        "score": 5261,
+        "nps_date": "2023-09-05T06:59:22.274Z",
+        "nps_status": "Satisfied",
+        "nps_comment": "Highly recommended.",
+        "created_at": "2023-09-05T13:23:44.077Z",
+        "updated_at": "2023-09-06T00:26:31.078Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e67e6ab2-54e5-4310-ad56-6fc08c160eb1",
+        "score": 20771,
+        "nps_date": "2023-09-05T07:19:29.867Z",
+        "nps_status": "Unsatisfied",
+        "nps_comment": "Disappointing",
+        "created_at": "2023-09-05T11:41:00.883Z",
+        "updated_at": "2023-09-06T01:30:49.692Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "insurance_policy": [
+      {
+        "id": "3556bc6d-0589-45bd-ad19-a273c50ee9ec",
+        "policy_name": "Auto Insurance",
+        "policy_details": "Comprehensive coverage",
+        "policy_status": "Active",
+        "policy_start_date": "2023-09-05T13:49:08.779Z",
+        "policy_end_date": "2023-09-06T03:57:48.909Z",
+        "created_at": "2023-09-05T08:13:48.095Z",
+        "updated_at": "2023-09-06T01:01:27.732Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c9f5455-00d4-4e7e-b678-52296f9cccab",
+        "policy_name": "Home Insurance",
+        "policy_details": "Property protection",
+        "policy_status": "Expired",
+        "policy_start_date": "2023-09-05T22:29:23.788Z",
+        "policy_end_date": "2023-09-06T02:46:06.901Z",
+        "created_at": "2023-09-05T19:34:51.814Z",
+        "updated_at": "2023-09-06T03:04:49.779Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48ba5de8-3bf1-4ced-a298-4d2837a18a88",
+        "policy_name": "Health Insurance",
+        "policy_details": "Medical expenses",
+        "policy_status": "Cancelled",
+        "policy_start_date": "2023-09-05T18:38:05.682Z",
+        "policy_end_date": "2023-09-05T08:29:11.337Z",
+        "created_at": "2023-09-05T22:14:51.899Z",
+        "updated_at": "2023-09-05T11:34:44.311Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dcf143b8-1ae7-4a6f-9c70-81e6ad50b85d",
+        "policy_name": "Life Insurance",
+        "policy_details": "Death benefit",
+        "policy_status": "Pending",
+        "policy_start_date": "2023-09-06T02:34:43.194Z",
+        "policy_end_date": "2023-09-05T13:26:37.101Z",
+        "created_at": "2023-09-05T15:36:00.870Z",
+        "updated_at": "2023-09-05T05:34:09.453Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0aedc83e-46cf-4edd-b911-42928b38e7cd",
+        "policy_name": "Travel Insurance",
+        "policy_details": "Trip cancellation",
+        "policy_status": "Renewed",
+        "policy_start_date": "2023-09-05T10:29:51.003Z",
+        "policy_end_date": "2023-09-05T18:56:32.726Z",
+        "created_at": "2023-09-05T20:29:35.963Z",
+        "updated_at": "2023-09-05T08:57:10.273Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "banking_service": [
+      {
+        "id": "1beb5e04-ff69-42a7-b137-f9d2a722a69e",
+        "service_name": "Checking Account",
+        "service_details": "No monthly fees",
+        "service_status": "Active",
+        "service_start_date": "2023-09-05T18:23:56.270Z",
+        "service_end_date": "2023-09-05T22:22:48.096Z",
+        "created_at": "2023-09-05T22:39:05.740Z",
+        "updated_at": "2023-09-06T03:50:23.776Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50cce32c-050a-4b1c-9c6c-227349e1981d",
+        "service_name": "Savings Account",
+        "service_details": "Competitive interest rates",
+        "service_status": "Inactive",
+        "service_start_date": "2023-09-05T22:19:23.044Z",
+        "service_end_date": "2023-09-05T12:56:58.068Z",
+        "created_at": "2023-09-05T23:50:45.655Z",
+        "updated_at": "2023-09-05T19:20:32.161Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "83013b39-9488-4f8f-9bf0-3f72c1809d88",
+        "service_name": "Credit Card",
+        "service_details": "Cashback rewards",
+        "service_status": "Pending",
+        "service_start_date": "2023-09-06T04:29:40.243Z",
+        "service_end_date": "2023-09-05T17:07:22.704Z",
+        "created_at": "2023-09-05T21:07:21.693Z",
+        "updated_at": "2023-09-05T20:52:33.677Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92b1a2c8-796f-4a67-aa48-0adea9edc1c4",
+        "service_name": "Mortgage Loan",
+        "service_details": "Flexible repayment options",
+        "service_status": "Suspended",
+        "service_start_date": "2023-09-05T21:29:22.678Z",
+        "service_end_date": "2023-09-05T20:29:26.812Z",
+        "created_at": "2023-09-05T10:44:36.661Z",
+        "updated_at": "2023-09-05T13:19:23.665Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be44f319-8e6c-41bc-bc92-8d1f27f9f585",
+        "service_name": "Business Loan",
+        "service_details": "Quick approval process",
+        "service_status": "Closed",
+        "service_start_date": "2023-09-05T17:10:58.446Z",
+        "service_end_date": "2023-09-06T04:19:11.518Z",
+        "created_at": "2023-09-05T19:51:50.464Z",
+        "updated_at": "2023-09-05T22:21:30.235Z",
+        "financial_service_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "cd86bf62-009a-4bf2-ac51-f7e4b38d296d",
+        "customer_status": "Active",
+        "customer_start_date": "2023-09-05T08:21:00.298Z",
+        "customer_end_date": "2023-09-05T18:42:40.325Z",
+        "created_at": "2023-09-05T13:47:35.606Z",
+        "updated_at": "2023-09-05T06:29:25.109Z",
+        "banking_service_id": "50cce32c-050a-4b1c-9c6c-227349e1981d",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "2c9f5455-00d4-4e7e-b678-52296f9cccab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69a02665-34a0-4fa2-ba68-b1e8db1d1e97",
+        "customer_status": "Inactive",
+        "customer_start_date": "2023-09-05T05:21:35.900Z",
+        "customer_end_date": "2023-09-05T18:02:11.354Z",
+        "created_at": "2023-09-06T00:56:30.538Z",
+        "updated_at": "2023-09-06T01:28:52.179Z",
+        "banking_service_id": "50cce32c-050a-4b1c-9c6c-227349e1981d",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "dcf143b8-1ae7-4a6f-9c70-81e6ad50b85d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f3dc8e2-5e37-408b-b63b-56ad34137f9e",
+        "customer_status": "Pending",
+        "customer_start_date": "2023-09-06T00:09:00.034Z",
+        "customer_end_date": "2023-09-05T17:35:45.055Z",
+        "created_at": "2023-09-05T07:15:56.246Z",
+        "updated_at": "2023-09-05T18:05:46.947Z",
+        "banking_service_id": "be44f319-8e6c-41bc-bc92-8d1f27f9f585",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "48ba5de8-3bf1-4ced-a298-4d2837a18a88",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "680307ec-f0da-4129-9679-72d3db2fc49d",
+        "customer_status": "Suspended",
+        "customer_start_date": "2023-09-05T05:10:38.084Z",
+        "customer_end_date": "2023-09-05T06:11:24.693Z",
+        "created_at": "2023-09-05T06:07:33.295Z",
+        "updated_at": "2023-09-05T12:25:47.660Z",
+        "banking_service_id": "92b1a2c8-796f-4a67-aa48-0adea9edc1c4",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "2c9f5455-00d4-4e7e-b678-52296f9cccab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6e6b443-d77c-4f61-9125-d605f7cb3ffa",
+        "customer_status": "Closed",
+        "customer_start_date": "2023-09-05T14:04:05.663Z",
+        "customer_end_date": "2023-09-05T04:36:28.161Z",
+        "created_at": "2023-09-05T10:37:25.167Z",
+        "updated_at": "2023-09-05T11:59:57.095Z",
+        "banking_service_id": "be44f319-8e6c-41bc-bc92-8d1f27f9f585",
+        "financial_service_id": "main_entity_pk",
+        "insurance_policy_id": "3556bc6d-0589-45bd-ad19-a273c50ee9ec",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b6d75965-bc49-4c6d-a443-e000649ac84e",
+        "email": "Vicky.Grimes9@hotmail.com",
+        "firstName": "Esperanza",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/704.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c851da50-4a1a-48af-8d94-8fdecd175c23",
+        "email": "Madelyn_Anderson85@yahoo.com",
+        "firstName": "Lorna",
+        "lastName": "Ledner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/303.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "60024170-633a-4974-b093-24c3be54edb8",
+        "email": "Alba7@hotmail.com",
+        "firstName": "Karen",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1109.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "642de536-c6e9-4cbd-8129-27adf0ebc995",
+        "email": "Kristina.Altenwerth9@gmail.com",
+        "firstName": "Lauretta",
+        "lastName": "Feil-DuBuque",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1304573",
+        "tenantId": null
+      },
+      {
+        "reference": "71d24370-1c58-4421-bd26-711ce20057cd",
+        "email": "Kobe.Kuhlman@gmail.com",
+        "firstName": "Isaac",
+        "lastName": "Mayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1086.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]

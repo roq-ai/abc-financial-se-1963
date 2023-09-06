@@ -1,0 +1,108 @@
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["clientExtensions", "postgresqlExtensions"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  extensions      = [pgcrypto]
+}
+
+model banking_service {
+  id                   String            @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  service_name         String            @db.VarChar(255)
+  service_details      String?           @db.VarChar(255)
+  user_id              String            @db.Uuid
+  financial_service_id String            @db.Uuid
+  service_status       String            @db.VarChar(50)
+  service_start_date   DateTime?         @db.Timestamp(6)
+  service_end_date     DateTime?         @db.Timestamp(6)
+  created_at           DateTime          @default(now()) @db.Timestamp(6)
+  updated_at           DateTime          @default(now()) @db.Timestamp(6)
+  financial_service    financial_service @relation(fields: [financial_service_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  user                 user              @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  customer             customer[]
+}
+
+model customer {
+  id                   String            @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  user_id              String            @db.Uuid
+  financial_service_id String            @db.Uuid
+  insurance_policy_id  String            @db.Uuid
+  banking_service_id   String            @db.Uuid
+  customer_status      String            @db.VarChar(50)
+  customer_start_date  DateTime?         @db.Timestamp(6)
+  customer_end_date    DateTime?         @db.Timestamp(6)
+  created_at           DateTime          @default(now()) @db.Timestamp(6)
+  updated_at           DateTime          @default(now()) @db.Timestamp(6)
+  banking_service      banking_service   @relation(fields: [banking_service_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  financial_service    financial_service @relation(fields: [financial_service_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  insurance_policy     insurance_policy  @relation(fields: [insurance_policy_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  user                 user              @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+model financial_service {
+  id               String             @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  description      String?            @db.VarChar(255)
+  service_type     String?            @db.VarChar(255)
+  service_status   String?            @db.VarChar(50)
+  creation_date    DateTime?          @default(now()) @db.Timestamp(6)
+  last_updated     DateTime?          @db.Timestamp(6)
+  name             String             @db.VarChar(255)
+  created_at       DateTime           @default(now()) @db.Timestamp(6)
+  updated_at       DateTime           @default(now()) @db.Timestamp(6)
+  user_id          String             @db.Uuid
+  tenant_id        String             @db.VarChar(255)
+  banking_service  banking_service[]
+  customer         customer[]
+  user             user               @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  insurance_policy insurance_policy[]
+  nps              nps[]
+}
+
+model insurance_policy {
+  id                   String            @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  policy_name          String            @db.VarChar(255)
+  policy_details       String?           @db.VarChar(255)
+  user_id              String            @db.Uuid
+  financial_service_id String            @db.Uuid
+  policy_status        String            @db.VarChar(50)
+  policy_start_date    DateTime?         @db.Timestamp(6)
+  policy_end_date      DateTime?         @db.Timestamp(6)
+  created_at           DateTime          @default(now()) @db.Timestamp(6)
+  updated_at           DateTime          @default(now()) @db.Timestamp(6)
+  customer             customer[]
+  financial_service    financial_service @relation(fields: [financial_service_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  user                 user              @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+model nps {
+  id                   String            @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  score                Int
+  user_id              String            @db.Uuid
+  financial_service_id String            @db.Uuid
+  nps_date             DateTime          @default(now()) @db.Timestamp(6)
+  nps_status           String            @db.VarChar(50)
+  nps_comment          String?           @db.VarChar(255)
+  created_at           DateTime          @default(now()) @db.Timestamp(6)
+  updated_at           DateTime          @default(now()) @db.Timestamp(6)
+  financial_service    financial_service @relation(fields: [financial_service_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  user                 user              @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+model user {
+  id                String              @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  email             String              @unique @db.VarChar(255)
+  firstName         String?             @db.VarChar(255)
+  lastName          String?             @db.VarChar(255)
+  roq_user_id       String              @db.VarChar(255)
+  tenant_id         String              @db.VarChar(255)
+  created_at        DateTime            @default(now()) @db.Timestamp(6)
+  updated_at        DateTime            @default(now()) @db.Timestamp(6)
+  banking_service   banking_service[]
+  customer          customer[]
+  financial_service financial_service[]
+  insurance_policy  insurance_policy[]
+  nps               nps[]
+}
